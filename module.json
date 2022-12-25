@@ -8,7 +8,7 @@
         "flags": {}
       }
     ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
       "minimum": "10",
       "verified": "10"
@@ -29,5 +29,5 @@
     ],
     "url": "https://github.com/fantom87/fantoms-stuff",
     "manifest": "https://github.com/fantom87/fantoms-stuff/releases/latest/download/module.json",
-    "download": "https://github.com/fantom87/fantoms-stuff/releases/download/1.0.0/fantoms.stuff.zip"
+    "download": "https://github.com/fantom87/fantoms-stuff/releases/download/1.0.1/fantoms.stuff.zip"
   }
